@@ -148,7 +148,7 @@ The following are insights from Consumption by Fuel Type:
 
 ![Correlation_Heatmap](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/Correlation_Heatmap.png)
 
-##### Correlation Insight
+#### Insight
 
 There are some strong correlations between Emissions and Energy Production+Consumption:
 
