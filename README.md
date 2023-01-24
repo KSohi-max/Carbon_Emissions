@@ -48,7 +48,7 @@ Based on the analyis there is data missing from the Carbon Emissions dataset. Co
 
 ![Global Carbon Emissions by Yr (2002-2022)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/Global%20Carbon%20Emissions%20by%20Yr%20(2002-2022).png)
 
-#### Insight for Global Carbon Emissions
+#### Insight
 
 Looking at the Global Carbon Emissions data from the dataset including Coal, Oil, Gas, Cement, Flaring, Other Sources, the following insights are observed:
 * Fuel source Coal has the highest Carbon Emissions globally. Oil and Gas also emit high levels of carbon while Cement, Flaring and Other make up the least source of Carbon Emissions
@@ -136,7 +136,7 @@ Please see jupyter notebook for more details:
 
 ![Oil Consumption (m³) by Yr by Country (1980-2019)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/Oil%20Consumption%20(m%C2%B3)%20by%20Yr%20by%20Country%20(1980-2019).png)
 
-### Insight
+#### Insight
 
 The following are insights from Consumption by Fuel Type:
 
@@ -204,7 +204,7 @@ Mean Squared Error: 328493.07
 
 Coefficient of Determination: 0.22
 
-### Insight
+#### Insight
 
 In using a simple linear regression to generate an equation that would define the relationship between Total Carbon Emissions and Fuel Production and Consumption, it is evident that the model created is not sufficient to define this relationship.
 
