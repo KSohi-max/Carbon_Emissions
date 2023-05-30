@@ -76,7 +76,7 @@ Based on above figure,
 
 ![Europe Carbon Emissions by Yr by Country(2002-2022)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/4-Europe%20Carbon%20Emissions.png)
 
-![Oceania Carbon Emissions by Yr by Country(2002-2022)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/3-Asia%20Carbon%20Emissions.png)
+![Oceania Carbon Emissions by Yr by Country(2002-2022)](https://github.com/KSohi-max/Carbon_Emissions/blob/main/Images/5-Oceania.png)
 
 #### Insight
 
