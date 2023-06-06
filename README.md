@@ -39,6 +39,8 @@ Evaluate world carbon and energy consumption based on following:
 * holoviews
 * bokeh
 * warnings
+* sns
+* scikit
 
 ## Carbon Emissions
 
